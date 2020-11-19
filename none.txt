@@ -1,2 +1,5 @@
+<<<<<<< Updated upstream
 hi! and this is what a git pull mess looks like
+=======
+>>>>>>> Stashed changes
 check this update.
